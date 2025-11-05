@@ -1,1 +1,1 @@
-This is text file to learning git and github.
+This is text file to learn git and github.
